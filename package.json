@@ -1,0 +1,23 @@
+{
+  "name": "javascript-data-structures",
+  "version": "1.0.0",
+  "description": "data structures for javascript",
+  "main": "jds.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterTadich/javascript-data-structures.git"
+  },
+  "author": "Peter Tadich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterTadich/javascript-data-structures/issues"
+  },
+  "homepage": "https://github.com/PeterTadich/javascript-data-structures#readme",
+  "dependencies": {
+    "homogeneous-transformations": "git+https://github.com/PeterTadich/homogeneous-transformations.git",
+    "matrix-computations": "git+https://github.com/PeterTadich/matrix-computations.git"
+  }
+}
