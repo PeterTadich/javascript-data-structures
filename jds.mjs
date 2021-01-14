@@ -21,8 +21,8 @@ console.log(elm);
 
 import * as hlao from 'matrix-computations';
 import * as mcht from 'homogeneous-transformations';
-//import * as hlao from '../node_modules/matrix-computations/hlao.mjs';
-//import * as mcht from '../node_modules/homogeneous-transformations/mcht.mjs';
+//import * as hlao from '../matrix-computations/hlao.mjs';
+//import * as mcht from '../homogeneous-transformations/mcht.mjs';
 
 //REF: Skiena Programming Challenges, page 192
 var MAXV = 50;     /* maximum number of vertices */
